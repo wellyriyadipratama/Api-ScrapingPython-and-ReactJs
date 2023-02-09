@@ -1,0 +1,64 @@
+.fixed{
+    position: fixed;
+    width: 100%;
+    top:0px;
+    z-index: 999;
+}
+
+.card-style{
+    width: 18rem;
+}
+
+.navbar {
+    background-color: rgb(28, 56, 133);
+    top: 0px;
+    width: 100%;
+    position: fixed;
+}
+
+.menu{
+    color: white;
+    font-size: 18px;
+}
+
+.menu:hover{
+    color: white;
+    font-size: 19px;
+}
+
+
+.wrapper{
+    background-color: rgb(182, 168, 190);
+    min-height: 500px;
+    margin-top: 65px;
+}
+
+.display{
+    color: black;
+}
+.card{
+    margin-top: 85px;
+    margin-bottom: 10px;
+    float: left;
+    min-height: 440px;
+    margin-left: 60px;
+}
+
+a .btn{
+    margin-bottom: 10px;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: unset;
+    width: 100%;
+    background-color: rgb(40, 10, 110);
+}
+
+.card-title{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
